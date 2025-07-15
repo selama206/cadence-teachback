@@ -1,4 +1,4 @@
-# WorkFlow Delievery
+# WorkFlow Delivery
 
 This project demonstrates food ordering with workflows using Uber's Cadence. It is fully containerized, processes orders from a CSV file, and manages the complete order lifecycle.
 
